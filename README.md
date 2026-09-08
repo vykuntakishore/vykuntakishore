@@ -162,17 +162,7 @@ A structured repository documenting my Data Engineering learning journey.
 
 </div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vykunta Kishore's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vykuntakishore\&theme=github-compact\&hide_border=true)](https://github.com/vykuntakishore)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
