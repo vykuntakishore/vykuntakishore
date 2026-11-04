@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vykunta Kishore
 
-### Data Engineer | Snowflake Developer | Data Analytics
+### Data Engineer | Snowflake | Databricks | Data Analytics
 
 Building reliable data pipelines, exploring modern data platforms, and learning something new every day.
 
